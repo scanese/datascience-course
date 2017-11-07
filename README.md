@@ -42,6 +42,8 @@ Completar el formulario de inscripción al curso [aquí](https://goo.gl/forms/tO
 
 Becas destinadas a egresados de una carrera con el fin de llevar a cabo sus estudios de especialización (maestrías o doctorados en un país extranjero). El principal desafío de BECAL es mejorar la oferta del capital humano avanzado, mediante el financiamiento de becas de estudios de entrenamiento docente y postgrados en centros de excelencia del exterior. El mismo, tiene por objetivo contribuir a aumentar los niveles de generación y aplicación de conocimiento en las áreas de Ciencias y Tecnología (CyT) y en los niveles de aprendizaje en la educación. El principal problema a ser abordado por este programa es la baja capacidad del país para generar y aplicar conocimiento requerido para el desarrollo.
 
+[Página web de Becal](http://www.becal.gov.py/)
+
 ## Dataset 1
  * **No**: Tipo _numérico (índice)_. Contiene el índice de la entrada en la tabla de datos.
  * **C.I.**: Tipo _numérico_. Contiene el número de cédula del becario.
